@@ -10,7 +10,7 @@ I’m FullStack Developer with 8 years’ experience building backend and web ap
 - 🌱 Learning all about **React-native**, **Docker** and **Microservices**
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/andr%C3%A9-oliveira-807772206"/>
+  <a href="https://www.linkedin.com/in/yago-oliveira-da-silva/"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yagooliver&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagooliver&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
